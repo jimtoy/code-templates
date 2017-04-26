@@ -20,7 +20,7 @@ class ${NAME} extends React.Component {
     }
 }
 
-${NAME} .PropTypes = {
+${NAME} .propTypes = {
     //myProp: PropTypes.string.isRequired
 };
 
